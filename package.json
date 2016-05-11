@@ -41,7 +41,7 @@
     "chai-as-promised": "^5.3.0",
     "codecov": "^1.0.1",
     "eslint": "^2.5.0",
-    "eslint-config-trails": "^1.0.4",
+    "eslint-config-trails": "^1.0.6",
     "mocha": "^2.3",
     "nyc": "^6.0.0",
     "smokesignals": "^1.0.6",
