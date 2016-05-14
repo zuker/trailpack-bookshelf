@@ -26,7 +26,7 @@
     "bookshelf": "^0.9.1",
     "bookshelf-schema": "^0.2.1",
     "joi": "^8.0.5",
-    "knex": "^0.10.0",
+    "knex": "^0.11.3",
     "lodash": "^4.5.0",
     "trailpack": "^1.0.0-beta-5",
     "trailpack-datastore": "^1.0.0",
