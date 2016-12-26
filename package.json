@@ -24,11 +24,11 @@
   "dependencies": {
     "bluebird": "^3.4.0",
     "bookshelf": "^0.10.0",
-    "bookshelf-schema": "^0.2.3",
+    "bookshelf-schema": "^0.3.0",
     "joi": "^10.0.1",
     "knex": "^0.12.4",
     "lodash": "^4.16.0",
-    "trailpack-datastore": "^1.0.1",
+    "trailpack-datastore": "^1.0.2",
     "trails-service": "^2.0.0"
   },
   "devDependencies": {
@@ -46,7 +46,7 @@
     "smokesignals": "^1.2.2",
     "sqlite3": "^3.1.5",
     "trailpack-core": "^2.0.0",
-    "trails": "^1.0.0",
+    "trails": "^1.1.0",
     "trails-model": "^2.0.1"
   },
   "scripts": {
